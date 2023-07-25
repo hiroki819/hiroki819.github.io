@@ -1,5 +1,5 @@
 #home {
-  background-image: url("final1/images1/background.jpg");
+  background-image: url("images1/background.jpg");
   min-height: 100vh;
 }
 
@@ -53,7 +53,7 @@ p{
   background-image: linear-gradient(180deg, #ccc 1px, transparent 1px); /* 罫線の色と太さ  */
   background-size: 100% 2.5em; /* 行の高さ */
   line-height: 2.5em;
-  padding-bottom: 1%; /* 最終行の下にも罫線を引く */
+  padding-bottom: 5%; /* 最終行の下にも罫線を引く */
   font-family: "Philosopher";
 }
 
